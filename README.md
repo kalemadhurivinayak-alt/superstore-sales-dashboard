@@ -1,5 +1,9 @@
 # Superstore Sales Performance Dashboard (2014–2017)
+# Superstore Sales Performance Dashboard (2014–2017)
 
+![Dashboard Screenshot](https://github.com/kalemadhurivinayak-alt/superstore-sales-dashboard/blob/main/WhatsApp%20Image%202026-06-11%20at%2001.55.34.jpeg)
+
+## Project Overview
 ## Project Overview
 This project analyzes Superstore sales data from 2014 to 2017 using Google Sheets. The dashboard provides insights into sales performance across regions, categories, customer segments, and states.
 
